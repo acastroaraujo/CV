@@ -21,6 +21,7 @@
 \RequirePackage{ifmtarg}
 \RequirePackage{ifthen}
 \RequirePackage{pgffor}
+\RequirePackage{hanging}
 \RequirePackage{marvosym}
 \RequirePackage{parskip}
 %This changes the layout of the right column
@@ -104,7 +105,7 @@
    		\node [rectangle, fill=white, anchor=north, minimum width=9cm, minimum height=\paperheight+1cm] (box) at (-5cm,0.5cm){};
 	\end{tikzpicture}
 
-	%------------------------------------------------
+	  %------------------------------------------------
 
 	\begin{textblock}{6}(0.5, 0.2)
 
@@ -136,19 +137,19 @@
 			\ifthenelse{\equal{\cvaddress}{}}{}{\Large\faicon{map-marker} & \cvaddress\\}
 			\ifthenelse{\equal{\cvnumberphone}{}}{}{\Large\faicon{phone} & \cvnumberphone\\}
 			\ifthenelse{\equal{\cvsite}{}}{}{\Large\faicon{home} & \cvsite\\}
+%			\ifthenelse{\equal{\cvmail}{}}{}{\Large\faicon{envelope} & \cvmail\\}
 			\ifthenelse{\equal{\cvtwitter}{}}{}{\Large\faicon{twitter} & \cvtwitter\\}
 			\ifthenelse{\equal{\cvgithub}{}}{}{\Large\faicon{github} & \cvgithub\\}
-			\ifthenelse{\equal{\cvlinkedin}{}}{}{\Large\faicon{linkedin} & \cvlinkedin}
-			\ifthenelse{\equal{\cvmail}{}}{}{\Large\faicon{envelope} & \cvmail\\}	
+			\ifthenelse{\equal{\cvlinkedin}{}}{}{\Large\faicon{linkedin} & \cvlinkedin\\}
+			\ifthenelse{\equal{\cvmail}{}}{}{\Large\faicon{envelope} & \cvmail}
 		\end{tabular}
 
 		%------------------------------------------------
 
 		\ifthenelse{\equal{\aboutme}{}}{}{
 			\profilesection{About me}
-			\begin{flushleft}
+			  \par\vspace{.1cm}
 				\aboutme
-			\end{flushleft}
 		}
 
 
@@ -156,26 +157,25 @@
 
 
 			\profilesection{Education}
-			\begin{flushleft}
-				MASTER'S DEGREE \newline
+			  \par\vspace{.1cm}
+				MASTER'S DEGREE | \textbf{Aug '17 - Feb '19} \newline
 				Quantitative Methods in the Social Sciences \newline
 				\textbf{Columbia University, New York, USA}
 				\par\vspace{.4cm}
-				BACHELOR'S DEGREE \newline
+				BACHELOR'S DEGREE | \textbf{Aug '09 - Jun '15} \newline
 				Economics \newline
-				\textbf{Universidad del Rosario, Bogotá, Colombia}
+				\textbf{University of Rosario, Bogotá, Colombia}
 				\par\vspace{.4cm}
-				BACHELOR'S DEGREE \newline
+				BACHELOR'S DEGREE | \textbf{Aug '09 - Jun '16} \newline
 				Sociology \newline
-				\textbf{Universidad del Rosario, Bogotá, Colombia}
-			\end{flushleft}
+				\textbf{University of Rosario, Bogotá, Colombia}
 
 
 		%------------------------------------------------
 
 
-			\profilesection{Skills}
-			\begin{flushleft}
+			\profilesection{Technical Skills}
+			  \par\vspace{.1cm}
 				\textbf{PROGRAMMING} 
 				\begin{itemize}
 					\item R
@@ -187,16 +187,13 @@
 				\textbf{DATA ANALYSIS} 
 				\begin{itemize}
 					\item Regression Modeling
-					\item Bayesian Statistics
-					\item Data Visualization
+          \item \href{https://acastroaraujo.github.io/ModelThinker/}{Bayesian Statistics}
+					\item \href{https://acastroaraujo.github.io/Visuals/}{Data Visualization}
 					\item Social Network Analysis
 					\item Causal Inference
 					\item Machine Learning
 					\item Text Mining
 				\end{itemize}
-			\end{flushleft}
-
-
 		%------------------------------------------------
 
 	\end{textblock}
@@ -209,7 +206,7 @@
 
 % Command to create the rounded boxes around the first three letters of section titles
 \newcommand*\round[2]{%
-	\tikz[baseline=(char.base)]\node[anchor=north west, draw, rectangle, inner sep=1.6pt, minimum size=5.5mm, text height=4mm, fill=#2,#2,text=white](char){#1};%
+	\tikz[baseline=(char.base)]\node[anchor=north west, draw, rectangle, inner sep=1.6pt, minimum size=5.5mm, text height=4mm, fill=#2,#2,text=gray](char){#1};%
 }
 
 \newcounter{colorCounter}
@@ -217,12 +214,12 @@
 	{%
 		\round{#1}{
 			\ifcase\value{colorCounter}%
-			maingray\or%
-			maingray\or%
-			maingray\or%
-			maingray\or%
-			mainblue\or%
- 			maingray\or%
+			lightgray\or%
+			lightgray\or%
+			lightgray\or%
+			lightgray\or%
+			lightgray\or%
+			lightgray\or%
 			mainblue\else%
 			maingray\fi%
 		}%
