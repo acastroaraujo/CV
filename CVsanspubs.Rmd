@@ -17,13 +17,13 @@ library(vitae)
 
 # Experience
 
-\vspace{0.25cm}
+\vspace{0.5cm}
 RESEARCH ASSISTANT **| Aug '17 - Dec '17** \newline
 **Columbia University**
 
 Collected, analyzed, and visualized publicly available data on corruption practices in Latin America. Supervised by professor Paul Lagunes.
 
-\vspace{0.25cm}
+\vspace{0.5cm}
 RESEARCHER **| Oct '15 - Jul '17** \newline 
 **Center for Law, Justice, and Society - Dejusticia**
 
@@ -37,7 +37,7 @@ Worked as a researcher in the area of [Economic Justice](https://www.dejusticia.
 
 - Participated in various litigations strategies dealing with tax reform.
 
-\vspace{0.25cm}
+\vspace{0.5cm}
 ADJUNCT LECTURER **| Jan '16 - Jun '17** \newline
 **University of Rosario**
 
@@ -47,30 +47,22 @@ Courses taught:
 
 - Economy & Society
 
-\vspace{0.25cm}
+\vspace{0.4cm}
 PUBLIC POLICY INTERN **| Jun '14 - Dec '14** \newline
 **Department of National Planning, Office of Public Policy Evaluations (DSEPP)**
 
 Assisted in a variety of public policy evaluations, using commmon causal inference techniques such as randomized controlled trials, matching on propensity scores, differences-in-differences, and instrumental variables.
 
-\vspace{0.25cm}
+\vspace{0.5cm}
 # Ongoing Projects
 
-- [*Political Polarization in Twitter Networks*](https://acastroaraujo.github.io/TwitterPolitics/)
+[*Political Polarization in Twitter Networks*](https://acastroaraujo.github.io/TwitterPolitics/)
 
-This project is an extension of my master's thesis at Columbia University. It uses Bayesian Ideal Point Estimation models to measure the degree of political polarization among Twitter users in the country of Colombia. These methods are closely related to matrix factorization techniques used in recommender systems.
+This project is an extension of my master's thesis at Columbia University. I collected the data uses Bayesian Ideal Point Estimation models to measure the degree of political polarization among Twitter users in the country of Colombia. 
 
-- [*Network Properties of Tax Havens*](https://acastroaraujo.github.io/TaxHavens/)
+These methods are closely related to matrix factorization techniques used in recommender systems.
+
+[*Network Properties of Tax Havens*](https://acastroaraujo.github.io/TaxHavens/)
 
 This project exploits the perceived inconsistencies of foreign direct investment (FDI) data to shine a light on anomalous transactions between countries, rather than just trying to classify individual countries as tax havens or not. 
 
-# Publications
-\begin{hangparas}{.25in}{1}
-Castro A., A. (forthcoming) "The power in numbers: Statistical visibility and Inequality in Colombia and Dominican Republic", Siglo XXI Editores
-
-Uprimny, R., Chaparro H., S. \& Castro A., A, (2019) "Bridging the Gap: The Evolving Doctrine on ESCR and 'Maximum Available Resources'”. In: The Future of Economic and Social Rights, Cambridge University Press
-
-Castro A., A. \& Uprimny, R. (forthcoming) Beneficios Impuestos: Beneficios tributarios y DH en Colombia, Dejusticia and International Budget Partnership
-
-Chaparro H., S. \& Castro, A. (2017) "Política fiscal y derechos humanos en Colombia: hacia una perspectiva integrada", Revista de la Defensa Pública de la Ciudad de Buenos Aires, p. 175-194
-\end{hangparas}
