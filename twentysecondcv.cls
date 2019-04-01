@@ -160,7 +160,8 @@
 			  \par\vspace{.1cm}
 				MASTER'S DEGREE | \textbf{Aug '17 - Feb '19} \newline
 				Quantitative Methods in the Social Sciences \newline
-				\textbf{Columbia University, New York, USA}
+				\textbf{Columbia University, New York, USA} \newline
+				\textbf{GPA: 3.9}
 				\par\vspace{.4cm}
 				BACHELOR'S DEGREE | \textbf{Aug '09 - Jun '15} \newline
 				Economics \newline
@@ -195,6 +196,13 @@
 					\item Text Mining
 				\end{itemize}
 		%------------------------------------------------
+
+    \profilesection{Other}
+      \par\vspace{.2cm}
+      Government Scholarship \textbf{| Jun '17} \newline
+      \textbf{Pasaporte a la Ciencia, COLCIENCIAS} \par\vspace{.2cm}
+      Data Science Consultant \textbf{| Oct '18} \newline
+      \textbf{Obama Scholars Bootcamp} \par\vspace{.2cm}
 
 	\end{textblock}
 	%\AddThispageHook{\newpage\restoregeometry}

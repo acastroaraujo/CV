@@ -21,13 +21,11 @@ library(vitae)
 RESEARCH ASSISTANT **| Aug '17 - Dec '17** \newline
 **Columbia University**
 
-Collected, analyzed, and visualized publicly available data on corruption practices in Latin America. Supervised by professor Paul Lagunes.
+- Collected, analyzed, and visualized publicly available data on corruption practices in Latin America. Supervised by professor Paul Lagunes.
 
 \vspace{0.5cm}
 RESEARCHER **| Oct '15 - Jul '17** \newline 
-**Center for Law, Justice, and Society - Dejusticia**
-
-Worked as a researcher in the area of [Economic Justice](https://www.dejusticia.org/en/issues/economic-justice/).
+**Center for Law, Justice, and Society - [Dejusticia](https://www.dejusticia.org/en/)**
 
 - Conducted research on fiscal policy, taxes, and their role towards the advancement of socio-economic rights. 
 
@@ -51,18 +49,18 @@ Courses taught:
 PUBLIC POLICY INTERN **| Jun '14 - Dec '14** \newline
 **Department of National Planning, Office of Public Policy Evaluations (DSEPP)**
 
-Assisted in a variety of public policy evaluations, using commmon causal inference techniques such as randomized controlled trials, matching on propensity scores, differences-in-differences, and instrumental variables.
+- Assisted in a variety of public policy evaluations, using common causal inference techniques such as randomized controlled trials, matching on propensity scores, differences-in-differences, and instrumental variables.
 
 \vspace{0.5cm}
 # Ongoing Projects
 
 [*Political Polarization in Twitter Networks*](https://acastroaraujo.github.io/TwitterPolitics/)
 
-This project is an extension of my master's thesis at Columbia University. I collected the data uses Bayesian Ideal Point Estimation models to measure the degree of political polarization among Twitter users in the country of Colombia. 
+- This project is an extension of my master's thesis at Columbia University. It uses Bayesian Ideal Point Estimation models to measure the degree of political polarization among Twitter users in the country of Colombia. 
 
-These methods are closely related to matrix factorization techniques used in recommender systems.
+    These methods are closely related to matrix factorization techniques used in recommender systems.
 
 [*Network Properties of Tax Havens*](https://acastroaraujo.github.io/TaxHavens/)
 
-This project exploits the perceived inconsistencies of foreign direct investment (FDI) data to shine a light on anomalous transactions between countries, rather than just trying to classify individual countries as tax havens or not. 
+- This project exploits the perceived inconsistencies of foreign direct investment (FDI) data to identify anomalous transactions between countries, rather than just attempting to classify individual countries as tax havens or not. 
 
