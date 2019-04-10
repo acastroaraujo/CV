@@ -31,7 +31,7 @@ RESEARCHER **| Oct '15 - Jul '17** \newline
 
 - Managed a large report on tax exemptions and inequality in Colombia, to be published in 2019. 
 
-- Wrote policy briefs that assessed the compliance of different state parties to the United Nation's International Covenant on ESCRs.
+- Wrote policy briefs that assessed the compliance of different state parties to the United Nation's International Covenant on Economic, Social, and Cultural Rights.
 
 - Participated in various litigations strategies dealing with tax reform.
 
@@ -60,7 +60,7 @@ PUBLIC POLICY INTERN **| Jun '14 - Dec '14** \newline
 
 [*Network Properties of Tax Havens*](https://acastroaraujo.github.io/TaxHavens/)
 
-- This project exploits the perceived inconsistencies of foreign direct investment (FDI) data to identify anomalous transactions between countries, rather than just attempting to classify individual countries as tax havens or not. 
+- This project exploits the perceived inconsistencies of foreign direct investment data in order to identify anomalous transactions between countries, rather than just attempting to classify individual countries as tax havens or not. 
 
 # Publications
 \begin{hangparas}{.25in}{1}

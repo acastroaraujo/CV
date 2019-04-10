@@ -143,6 +143,10 @@
 			\ifthenelse{\equal{\cvlinkedin}{}}{}{\Large\faicon{linkedin} & \cvlinkedin\\}
 			\ifthenelse{\equal{\cvmail}{}}{}{\Large\faicon{envelope} & \cvmail}
 		\end{tabular}
+		
+			\vspace{0.25cm}
+			\textbf{US Employment Authorization} \newline
+			\textbf{Granted: Feb '19 - Feb '22}
 
 		%------------------------------------------------
 
@@ -199,10 +203,12 @@
 
     \profilesection{Other}
       \par\vspace{.2cm}
-      Government Scholarship \textbf{| Jun '17} \newline
-      \textbf{Pasaporte a la Ciencia, COLCIENCIAS} \par\vspace{.2cm}
+      Data Science Consultant \textbf{| Feb '18 - Mar '18} \newline
+      \textbf{Betterfin | For Business Owners} \par\vspace{.2cm}
       Data Science Consultant \textbf{| Oct '18} \newline
       \textbf{Obama Scholars Bootcamp} \par\vspace{.2cm}
+      Government Scholarship \textbf{| Jun '17 - Dec '18} \newline
+      \textbf{Pasaporte a la Ciencia | Colciencias} \par\vspace{.2cm}
 
 	\end{textblock}
 	%\AddThispageHook{\newpage\restoregeometry}
