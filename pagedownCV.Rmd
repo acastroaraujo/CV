@@ -1,0 +1,197 @@
+---
+title: "Andrés Castro Araújo's resume"
+author: Andrés Castro Araújo
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ["my_resume.css"]
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> acastroaraujo@gmail.com
+- <i class="fab fa-linkedin"></i> [andres-castro-araujo](https://www.linkedin.com/in/andres-castro-araujo)
+- <i class="fa fa-github"></i> [github.com/acastroaraujo/](https://github.com/acastroaraujo/)
+- <i class="fas fa-globe-americas"></i> New York, NY, USA
+- <i class="fa fa-phone"></i> +1 (718) 360-6862
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+_Programming_
+
+- R
+- Stan
+- Python
+- SQL
+
+_Data Analysis_
+
+- Regression Modeling
+- Data Visualization
+- Bayesian Statistics
+- Social Network Analysis
+- Causal Inference
+- Machine Learning
+- Natural Language Processing
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Andrés Castro-Araújo {#title}
+--------------------------------------------------------------------------------
+
+___Data Scientist, Computational Social Scientist___
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Columbia University
+
+M.A. Quantitative Methods in the Social Sciences
+
+New York, NY, USA
+
+2019
+
+Thesis: Ideal-point estimation of political ideology in Twitter networks
+
+### Universidad del Rosario
+
+M.S. in Sociology
+
+Bogotá, Colombia
+
+2016
+
+### Universidad del Rosario
+
+B.S. in Economics
+
+Bogotá, Colombia
+
+2015
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+TBWA/Chiat/Day
+
+New York, NY, USA
+
+Present - 2019
+
+I use diverse sources of information (from Census data to online reviews) for a variety of tasks that include, but are not limited to, predictive modeling, text mining, data visualization, and rapid prototyping of data products using R Shiny.
+
+### Research Assistant
+
+Columbia University
+
+New York, NY, USA
+
+2017
+
+Collected, analyzed, and visualized publicly available data on corruption practices in Latin America. Supervised by professor Paul Lagunes.
+
+### Researcher
+
+Center for Law, Justice, and Society - Dejusticia
+
+Bogotá, Colombia
+
+2017 - 2015
+
+Conducted research on fiscal policy, taxes, and their role towards the advancement of socio-economic rights.
+
+Wrote policy briefs that assessed the compliance of state parties to the United Nation’s International Covenant on Economic, Social, and Cultural Rights.
+
+### Public Policy Intern
+
+Department of National Planning
+
+Bogotá, Colombia
+
+2014
+
+Assisted in a variety of public policy evaluations, using common causal inference techniques such as randomized controlled trials, matching on propensity scores, differences-in-differences, and instrumental variables.
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to Statistics
+
+Universidad del Rosario
+
+Bogotá, Colombia
+
+2016
+
+### Economy & Society
+
+Universidad del Rosario
+
+Bogotá, Colombia
+
+2017
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### The Power behind Numbers: Statistical Visibility and Inequality in Colombia and the Dominican Republic
+
+Dejusticia Series (available in spanish through Siglo XXI Editores)
+
+N/A
+
+2019
+
+Andrés Castro Araújo
+
+### The State of Corruption in Latin America 
+
+Baker Institute Report
+
+N/A
+
+2019
+
+Paul Lagunes, Xiaoxuan Yang & _Andrés Castro Araújo_
+
+### Bridging the Gap: The Evolving Doctrine on ESCR and Maximum Available Resources
+
+_The Future of Economic and Social Rights_, Cambridge University Press
+
+N/A
+
+2019 
+
+Rodrigo Uprimny, Sergio Chaparro H. & _Andrés Castro Araújo_
+
+### Fiscal policy and Human Rights in Colombia: Towards an integrated approach
+
+_Revista de la Defensa Pública de la Ciudad de Buenos Aires_
+
+N/A
+
+2017
+
+Sergio Chaparro H. & _Andrés Castro Araújo_
