@@ -9,6 +9,11 @@ output:
     self_contained: false
 ---
 
+```{r, echo=FALSE}
+#pagedown::chrome_print("final_report_pagedown.html", "report_final_Aug12.pdf")
+```
+
+
 Aside
 ================================================================================
 
@@ -47,7 +52,7 @@ _Data Analysis_
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Last updated on `r Sys.Date()`.
+Last updated on `r format(Sys.time(), '%B %d, %Y')`.
 
 
 
@@ -100,7 +105,7 @@ New York, NY, USA
 
 Present - 2019
 
-I use diverse sources of information (from Census data to online reviews) for a variety of tasks that include, but are not limited to, predictive modeling, text mining, data visualization, and rapid prototyping of data products using R Shiny.
+I use diverse sources of information for a variety of tasks that include, but are not limited to, predictive modeling, text mining, data visualization, and rapid prototyping of data products using R Shiny.
 
 ### Research Assistant
 
@@ -134,6 +139,8 @@ Bogotá, Colombia
 
 Assisted in a variety of public policy evaluations, using common causal inference techniques such as randomized controlled trials, matching on propensity scores, differences-in-differences, and instrumental variables.
 
+<br><br><br><br>
+
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
@@ -156,9 +163,9 @@ Bogotá, Colombia
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### The Power behind Numbers: Statistical Visibility and Inequality in Colombia and the Dominican Republic
+### [The Power behind Numbers: Statistical Visibility and Inequality in Colombia and the Dominican Republic](https://www.dejusticia.org/wp-content/uploads/2019/08/Adressing-Inequality-from-a-Human-Rights-Perspective-LIBRO.pdf)
 
-Dejusticia Series (available in spanish through Siglo XXI Editores)
+Dejusticia Series (available in spanish [here](https://www.dejusticia.org/wp-content/uploads/2019/07/Co%CC%81mo-pensar-la-desigualdad-desde-los-derechos-humanos.pdf))
 
 N/A
 
@@ -166,7 +173,7 @@ N/A
 
 Andrés Castro Araújo
 
-### The State of Corruption in Latin America 
+### [The State of Corruption in Latin America](https://www.bakerinstitute.org/files/14540/)
 
 Baker Institute Report
 
@@ -186,7 +193,7 @@ N/A
 
 Rodrigo Uprimny, Sergio Chaparro H. & _Andrés Castro Araújo_
 
-### Fiscal policy and Human Rights in Colombia: Towards an integrated approach
+### [Política fiscal y derechos humanos en Colombia: hacia una perspectiva integrada](https://www.mpdefensa.gob.ar/sites/default/files/revistanro.11.pdf)
 
 _Revista de la Defensa Pública de la Ciudad de Buenos Aires_
 
