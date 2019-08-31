@@ -1,1 +1,1 @@
-Click [here]("acastroaraujoCV.pdf") to see my latest CV, made with the [pagedown](https://github.com/rstudio/pagedown) package.
+Click [here]("acastroaraujoCV.pdf") to see my latest resume, made with the [pagedown](https://github.com/rstudio/pagedown) package.
