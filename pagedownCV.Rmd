@@ -10,7 +10,10 @@ output:
 ---
 
 ```{r, echo=FALSE}
-#pagedown::chrome_print("final_report_pagedown.html", "report_final_Aug12.pdf")
+# After rendering the html file, type the following into the console to
+# also get a pdf version in your working directory
+#
+# pagedown::chrome_print("pagedownCV.html", "acastroaraujoCV.pdf")
 ```
 
 
@@ -80,7 +83,7 @@ Thesis: Ideal-point estimation of political ideology in Twitter networks
 
 ### Universidad del Rosario
 
-M.S. in Sociology
+B.A. in Sociology
 
 Bogotá, Colombia
 
@@ -88,7 +91,7 @@ Bogotá, Colombia
 
 ### Universidad del Rosario
 
-B.S. in Economics
+B.A. in Economics
 
 Bogotá, Colombia
 
