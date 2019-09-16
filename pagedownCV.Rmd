@@ -147,14 +147,6 @@ Assisted in a variety of public policy evaluations, using common causal inferenc
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to Statistics
-
-Universidad del Rosario
-
-Bogotá, Colombia
-
-2016
-
 ### Economy & Society
 
 Universidad del Rosario
@@ -163,12 +155,20 @@ Bogotá, Colombia
 
 2017
 
+### Introduction to Statistics
+
+Universidad del Rosario
+
+Bogotá, Colombia
+
+2016
+
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### [The Power behind Numbers: Statistical Visibility and Inequality in Colombia and the Dominican Republic](https://www.dejusticia.org/wp-content/uploads/2019/08/Adressing-Inequality-from-a-Human-Rights-Perspective-LIBRO.pdf)
 
-Dejusticia Series (available in spanish [here](https://www.dejusticia.org/wp-content/uploads/2019/07/Co%CC%81mo-pensar-la-desigualdad-desde-los-derechos-humanos.pdf))
+Dejusticia Series (available in spanish [<u> here</u> ](https://www.dejusticia.org/wp-content/uploads/2019/07/Co%CC%81mo-pensar-la-desigualdad-desde-los-derechos-humanos.pdf))
 
 N/A
 

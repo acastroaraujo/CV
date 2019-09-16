@@ -64,6 +64,10 @@ h1, h2, h3{
   color: #000;
 }
 
+a:link {
+  color: #63b8ff;
+}
+
 #main > h1, #aside > h1, #disclaimer > h2 {
   display: none;
 }
