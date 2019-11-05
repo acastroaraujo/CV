@@ -13,7 +13,7 @@ output:
 # After rendering the html file, type the following into the console to
 # also get a pdf version in your working directory
 #
-# pagedown::chrome_print("pagedownCV.html", "acastroaraujoCV.pdf")
+# pagedown::chrome_print("pagedownCV.Rmd", "acastroaraujoCV.pdf")
 ```
 
 
@@ -108,7 +108,7 @@ New York, NY, USA
 
 Present - 2019
 
-I use diverse sources of information for a variety of tasks that include, but are not limited to, predictive modeling, text mining, data visualization, and rapid prototyping of data products using R Shiny.
+I use diverse sources of information for a variety of tasks that include, but are not limited to, predictive modeling, natural language processing, data visualization, and rapid prototyping of data products using R Shiny.
 
 ### Research Assistant
 
@@ -142,7 +142,15 @@ Bogotá, Colombia
 
 Assisted in a variety of public policy evaluations, using common causal inference techniques such as randomized controlled trials, matching on propensity scores, differences-in-differences, and instrumental variables.
 
-<br><br><br><br>
+### Translator
+
+International Sociological Association
+
+Bogotá, Colombia
+
+2015 - 2011
+
+English to Spanish translator for [_Global Dialogue_](http://globaldialogue.isa-sociology.org/global-dialogues-spanish-team-based-at-the-rosario-university-in-bogota-colombia/), the ISA's electronic magazine.
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
