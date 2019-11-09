@@ -1,1 +1,1 @@
-Click [here](https://github.com/acastroaraujo/CV/raw/master/acastroaraujoCV.pdf) to download my latest resume, made with the [pagedown](https://github.com/rstudio/pagedown) package.
+Click [here](https://acastroaraujo.github.io/CV/acastroaraujoCV.pdf) to download my latest resume, made with the [pagedown](https://github.com/rstudio/pagedown) package.
