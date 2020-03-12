@@ -65,7 +65,7 @@ Main
 Andrés Castro-Araújo {#title}
 --------------------------------------------------------------------------------
 
-___Data Scientist, Computational Social Scientist___
+
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -79,7 +79,7 @@ New York, NY, USA
 
 2019
 
-Thesis: Ideal-point estimation of political ideology in Twitter networks
+_Thesis_. Ideal-point estimation of political ideology in Twitter networks
 
 ### Universidad del Rosario
 
@@ -89,6 +89,8 @@ Bogotá, Colombia
 
 2016
 
+_Thesis_. Colombian economists and the problem of "inequality"
+
 ### Universidad del Rosario
 
 B.A. in Economics
@@ -96,6 +98,8 @@ B.A. in Economics
 Bogotá, Colombia
 
 2015
+
+_Capstone project._ The use of experiments, quasi-experiments, and structural models in public policy evaluations
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -142,6 +146,8 @@ Bogotá, Colombia
 
 Assisted in a variety of public policy evaluations, using common causal inference techniques such as randomized controlled trials, matching on propensity scores, differences-in-differences, and instrumental variables.
 
+<br/>
+
 ### Translator
 
 International Sociological Association
@@ -151,6 +157,25 @@ Bogotá, Colombia
 2015 - 2011
 
 English to Spanish translator for [_Global Dialogue_](http://globaldialogue.isa-sociology.org/global-dialogues-spanish-team-based-at-the-rosario-university-in-bogota-colombia/), the ISA's electronic magazine.
+
+Scholarships{data-icon=award}
+--------------------------------------------------------------------------------
+
+### RStudio Diversity Scholarship
+
+N/A
+
+San Francisco, CA, USA
+
+2020
+
+### Pasaporte a la Ciencia Scholarship
+
+Awarded by the _Administrative Department of Science, Technology and Innovation_ (Colciencias)
+
+Bogotá, Colombia
+
+2017
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -174,7 +199,7 @@ Bogotá, Colombia
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### [The Power behind Numbers: Statistical Visibility and Inequality in Colombia and the Dominican Republic](https://www.dejusticia.org/wp-content/uploads/2019/08/Adressing-Inequality-from-a-Human-Rights-Perspective-LIBRO.pdf)
+### The Power behind Numbers: Statistical Visibility and Inequality in Colombia and the Dominican Republic ([online verstion](https://acastroaraujo.github.io/CV/mics/acastroaraujo-modified-for-application-short.pdf))
 
 Dejusticia Series (available in spanish [<u> here</u> ](https://www.dejusticia.org/wp-content/uploads/2019/07/Co%CC%81mo-pensar-la-desigualdad-desde-los-derechos-humanos.pdf))
 
