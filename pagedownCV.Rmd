@@ -77,7 +77,7 @@ M.A. Quantitative Methods in the Social Sciences
 
 New York, NY, USA
 
-2019
+2019 - 2017
 
 _Thesis_. Ideal-point estimation of political ideology in Twitter networks
 
@@ -87,7 +87,7 @@ B.A. in Sociology
 
 Bogotá, Colombia
 
-2016
+2016 - 2009
 
 _Thesis_. Colombian economists and the problem of "inequality"
 
@@ -97,7 +97,7 @@ B.A. in Economics
 
 Bogotá, Colombia
 
-2015
+2015 - 2009
 
 _Capstone project._ The use of experiments, quasi-experiments, and structural models in public policy evaluations
 
@@ -110,7 +110,7 @@ TBWA/Chiat/Day
 
 New York, NY, USA
 
-Present - 2019
+2020 - 2019
 
 I use diverse sources of information for a variety of tasks that include, but are not limited to, predictive modeling, natural language processing, data visualization, and rapid prototyping of data products using R Shiny.
 
@@ -199,9 +199,9 @@ Bogotá, Colombia
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### The Power behind Numbers: Statistical Visibility and Inequality in Colombia and the Dominican Republic ([online verstion](https://acastroaraujo.github.io/CV/mics/acastroaraujo-modified-for-application-short.pdf))
+### The Power behind Numbers: Statistical Visibility and Inequality in Colombia and the Dominican Republic
 
-Dejusticia Series (available in spanish [<u> here</u> ](https://www.dejusticia.org/wp-content/uploads/2019/07/Co%CC%81mo-pensar-la-desigualdad-desde-los-derechos-humanos.pdf))
+Dejusticia Series ([abridged version](https://acastroaraujo.github.io/CV/misc/acastroaraujo-modified-for-application-short.pdf) [spanish](https://www.dejusticia.org/wp-content/uploads/2019/07/Co%CC%81mo-pensar-la-desigualdad-desde-los-derechos-humanos.pdf))
 
 N/A
 
